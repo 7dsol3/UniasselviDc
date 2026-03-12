@@ -1,0 +1,16 @@
+[backend]
+type = "unique_quant" # unique_quant | rule | llamacpp | ollama
+executable = "..\\llama.cpp\\build\\bin\\llama-cli.exe"
+model = "..\\models\\model.gguf"
+quant_model = "..\\data\\real\\model_mixed.jls"
+max_layers = 8
+n_ctx = 4096
+n_predict = 512
+temperature = 0.3
+
+[agent]
+system_prompt = "Voce e uma IA tecnica e pragmatica. Priorize respostas objetivas e seguras."
+max_history = 20
+retrieval_topk = 4
+temperature = 0.3
+max_tokens = 512
