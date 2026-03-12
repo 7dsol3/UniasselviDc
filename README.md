@@ -98,3 +98,6 @@ Comparado a quantizacao uniforme, a rota acima tende a:
 - entregar melhor trade-off qualidade x tamanho.
 
 7dsolv
+
+![jkkkkkkkkk-imagens-0](https://github.com/user-attachments/assets/55ddb2e4-fc25-46b5-9480-000c555aaf39)
+
