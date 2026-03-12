@@ -1,3 +1,9 @@
+
+Este projeto foi criado apenas como um experimento inicial.
+
+IANeuralCore
+
+
 # Mixed-Precision Sensitivity-Guided Quantization with Dynamic Regularization
 
 ## Objetivo
